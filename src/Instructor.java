@@ -11,4 +11,7 @@ public class Instructor extends User{
     public void setInstructorId(String ınstructorId) {
         this.ınstructorId = ınstructorId;
     }
+
 }
+
+
